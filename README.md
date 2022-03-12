@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Saradhavani
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ideas
 - 📫 How to reach me - linkedin
 
 <!---
